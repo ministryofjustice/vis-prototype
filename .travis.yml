@@ -17,6 +17,9 @@ after_success:
   - git config --global user.email "travis-ci@digital.justice.gov.uk"
   - git config --global user.name "Travis-CI"
   - test $TRAVIS_PULL_REQUEST == 'false' && test $TRAVIS_BRANCH == 'master' && bundle exec middleman deploy
+branches:
+  only:
+    - master
 env:
   global:
     secure: aUkrkC+yxn3n6LPzTz7K8cElGyhgaaG15kx2K6LOtNS0T5jeozMErjL6cZ5nQgrr04p0YBMaTU8Rkj5iJtIqmvc2uMATe7qfrqpI4josx++YNSekGaUklNocQowFhOtEddoheAtrB3i8qWMq8FfdnNKpWuHnklldkP5o33cj6CU=
