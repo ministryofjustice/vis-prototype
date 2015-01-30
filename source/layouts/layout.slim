@@ -8,6 +8,7 @@ html
     = include_stylesheets(current_page.data.stylesheets || current_page.data.stylesheet)
 
   body class="#{yield_content(:body_class)}"
+    = partial 'partials/layout/nav'
     = yield
     = javascript_include_tag 'libs', 'app'
     = include_javascripts(current_page.data.javascripts || current_page.data.javascripts)
