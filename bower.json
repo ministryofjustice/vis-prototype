@@ -9,7 +9,7 @@
     "test",
     "tests"
   ],
-  "devDependencies": {
+  "dependencies": {
     "foundation": "^5.5.0"
   }
 }
