@@ -137,16 +137,14 @@ configure :build do
   # set :http_prefix, "/Content/images/"
 end
 
+###
+# Deploy config
+###
 
-if ENV['TRAVIS']
-  activate :deploy do |deploy|
-    deploy.method = :git
-    deploy.build_before = true
+activate :deploy do |deploy|
+  deploy.method = :git
+  deploy.build_before = true
+  if ENV['TRAVIS']
     deploy.remote   = "https://#{ENV['GH_TOKEN']}:@github.com/#{ENV['TRAVIS_REPO_SLUG']}.git"
-  end
-else
-  activate :deploy do |deploy|
-    deploy.method = :git
-    deploy.build_before = true
   end
 end
