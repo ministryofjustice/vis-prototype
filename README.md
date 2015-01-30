@@ -1,7 +1,9 @@
-VIS Prototype
-=================================
+Victims Information Service Prototype
+=====================================
 
-Victims Information Service user testing prototype.
+[![Build Status](https://travis-ci.org/ministryofjustice/vis-prototype.svg?branch=master)](https://travis-ci.org/ministryofjustice/vis-prototype)
+
+User testing prototype for Victims Information Service (VIS).
 
 [Middleman](http://middlemanapp.com) is used to generate static files based on the contents of the `./source/` directory.
 
