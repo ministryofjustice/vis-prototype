@@ -8,6 +8,10 @@ activate :autoprefixer
 # Page options, layouts, aliases and proxies
 ###
 
+page "/index.html", :layout => :homepage
+page "/foundation.html", :layout => :layout
+page "/*", :layout => :article
+
 # Per-page layout changes:
 #
 # With no layout
