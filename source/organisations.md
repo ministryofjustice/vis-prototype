@@ -36,5 +36,5 @@ Responsible for prisoners, parole and community service. They should be let you 
 In many situations you will have other better ways of getting compensation, such as insurance policies. However you can also apply to CICA if you have no other option. This process can take a long time, and you will need to have fully cooperated with the police and CPS to have your case considered.
 
 ## Other organisations
-Criminal Cases Review Commission
-The First tier
+* Criminal Cases Review Commission
+* The First tier
