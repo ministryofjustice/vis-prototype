@@ -1,5 +1,10 @@
-nav
-  ul
-    - sitemap.resources.select {|p| p.ext == ".html" && p.url != "/foundation.html" }.each do |page|
-      li
-        =link_to page.data.title, page.url
+nav.top-bar(data-topbar)
+  ul.title-area
+    li.name
+      H1
+        a Victims Information Service
+  section.top-bar-section
+    ul.right
+      - sitemap.resources.select {|p| p.ext == ".html" && p.url != "/foundation.html" && p.url != "/" }.each do |page|
+        li
+          =link_to page.data.title, page.url
