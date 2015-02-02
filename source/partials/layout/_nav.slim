@@ -1,10 +1,9 @@
 nav.top-bar(data-topbar)
   ul.title-area
     li.name
-      H1
-        a Victims Information Service
+      h1 =link_to "Victims Information Service", "/"
   section.top-bar-section
     ul.right
-      - sitemap.resources.select {|p| p.ext == ".html" && p.url != "/foundation.html" && p.url != "/" }.each do |page|
-        li
-          =link_to page.data.title, page.url
+      - data.nav.each do |page|
+        li class=('active' if page.url == current_page.url)
+          =link_to page.name, page.url
