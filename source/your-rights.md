@@ -13,7 +13,7 @@ If you are a victim of crime, you are entitled to:
 - get information about what to expect
 - get information about what the police are doing
 - make a Victim Personal Statement about the crime
-- ask the Crown Prosecution Service (CPS) to look at things again if you are not happy with what they decide
+- ask the Crown Prosecution Service ([CPS](organisations.html#cps)) to look at things again if you are not happy with what they decide
 - be told what is happening with the trial and sentence
 - get help or support for going to court to give evidence
 - know if the person found guilty makes an appeal asking a different court to look at their case again
