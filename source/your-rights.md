@@ -1,8 +1,6 @@
 ---
 title: Your rights
 ---
-# Your rights
-
 ## Overview
 
 All victims of crime have a right to information and support from organisations like the police and the courts.

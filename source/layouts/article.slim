@@ -1,3 +1,17 @@
 = wrap_layout :layout do
 
-  = yield
+  br
+  h1 =current_page.data.title
+  .row
+    .large-8.columns
+      = yield
+    .large-4.columns
+      br
+      .panel
+        h4 Glossary
+        p = lorem.sentences 3
+        a =link_to "See the full glossary", "/glossary.html"
+      .panel
+        h4 Your rights
+        p = lorem.sentences 3
+        a =link_to "Understand your full rights", "/your-rights.html"
