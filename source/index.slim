@@ -19,39 +19,38 @@ br
 h3 Useful information for victims of crime
 .row
   .large-4.medium-4.columns
-    h4
-      a The Justice Process
+    h4 = link_to "The justice process", "/justice-process.html"
     p What you should expect to happen from reporting a crime until after a trial.
-    a =link_to "About The Justice Process", "/justice-process.html"
+    = link_to "About the justice process", "/justice-process.html"
   .large-4.medium-4.columns
-    h4
-      a Getting compensation
-    p From insurance claims to the government’s own compensation fund, this page tells you where to look.
-    a =link_to "Find out how to get compensation", "/getting-compensation.html"
+    h4 = link_to "Getting compensation", "/getting-compensation.html"
+    p From insurance claims to the government's own compensation fund.
+    = link_to "Find out how to get compensation", "/getting-compensation.html"
   .large-4.medium-4.columns
-    h4
-      a Glossary
-    p A simple guide to the complicated language of a crime and the trial.
-    a =link_to "See the full glossary", "/glossary.html"
+    h4 = link_to "Glossary", "/glossary.html"
+    p A guide to legal language.
+    = link_to "See the full glossary", "/glossary.html"
 hr
 .row
   .large-8.medium-8.columns
     h2 Am I a victim?
     h6 Some common cases where you are
     .callout.panel
-      h4 Children
-      p =lorem.sentences 3
+      h4 I am a child victim of a crime
+      p The Victims' Code says under 18s should get special support for giving evidence. This might mean giving evidence by a video link to the court, or special helplines to give you support after the crime.
+      = link_to "More on child victims", "/victims-article.html"
     .callout.panel
-      h4 Vulnerable
-      p =lorem.sentences 3
+      h4 I am a victim of domestic violence
+      p The Victims’ Code outlines the support you should get so you can give evidence in court without intimidation. Your Victim's Personal Statement may affect sentencing or parole. There are also national and local helplines.
+      = link_to "More on domestic violence", "/victims-article.html"
     .callout.panel
-      h4 Have been burgled
-      p =lorem.sentences 3
+      h4 My house has been burgled
+      p This can be very distressing, but getting a crime number so you can make an insurance claim is the first step in recovery. If the crime has affected your livelihood, a Victim's Personal Statement may influence sentencing. Local support is also available for those struggling to recover - search above
   .large-4.medium-4.columns
     h4 Online safety
     p The best way to stay safe is to use a completely different computer - at a library or from a friend. This guide from Womens Aid tells you more.
-    = link_to "Get me out of here", "http://www.google.co.uk", {:class => 'button small'}
+    = link_to "Get me out of here", "http://www.womensaid.org.uk/page.asp?section=00010001000800010001", {:class => 'button small'}
   .large-4.medium-4.columns
     h4 Complaints
-    p Sometimes things go wrong. We’ll tell you where to go to get it sorted out.
+    p What to do when things go wrong.
     = link_to "Find out about how to complain", "/complaining.html"
