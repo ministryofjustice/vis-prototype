@@ -8,20 +8,20 @@ All victims of crime have a right to information and support from organisations 
 If you are a victim of crime, you are entitled to:
 
 - an assessment to find out what support you need
-- extra support if you are a victim of a serious crime
-- have your details passed to other organisations that help and support victims of crime in your area
 - get information about what to expect
+- make a <a href="glossary.html#vps">Victim Personal Statement</a> about the crime
+- <a href="#special-measures">extra support</a> if you are a victim of a serious crime, are being threatened, or vulnerable in another way
+- information about <a href="glossary.html#restorative-justice">restorative justice</a>
+- have your details passed to other organisations that help and support victims of crime in your area
 - get information about what the police are doing
-- make a Victim Personal Statement about the crime
-- ask the Crown Prosecution Service ([CPS](organisations.html#cps)) to look at things again if you are not happy with what they decide
 - be told what is happening with the trial and sentence
 - get help or support for going to court to give evidence
 - know if the person found guilty makes an appeal asking a different court to look at their case again
-- information about restorative justice
-- apply for compensation
-- complain if you do not get the right information and support
+- ask the Crown Prosecution Service ([CPS](organisations.html#cps)) to look at things again if you are not happy with what they decide
+- apply for <a href="getting-compensation.html">compensation</a>
+- <a href="complaining.html">complain</a> if you do not get the right information and support
 
-## Extra support
+## <a name="special-measures"></a>Extra support
 
 For victims of more serious crimes, extra support is available if you are:
 
