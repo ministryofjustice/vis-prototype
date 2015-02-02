@@ -10,6 +10,7 @@
     "tests"
   ],
   "dependencies": {
-    "foundation": "^5.5.0"
+    "foundation": "^5.5.0",
+    "fira": "~0.1.0"
   }
 }

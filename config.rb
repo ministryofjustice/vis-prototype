@@ -46,6 +46,7 @@ page "/*", :layout => :article
 set :css_dir,    'assets/stylesheets'
 set :js_dir,     'assets/javascripts'
 set :images_dir, 'assets/images'
+set :fonts_dir,  'assets/stylesheets'
 
 set :relative_links, true
 
@@ -58,6 +59,15 @@ bowerrc_dir = JSON.parse(IO.read("#{root}/.bowerrc"))['directory']
 # Sprockets
 ready do
   sprockets.append_path(File.join(root, bowerrc_dir))
+
+  # add Fira Sans font
+  fira_dir = File.join(root, bowerrc_dir, 'fira')
+  sprockets.append_path(fira_dir)
+  Dir.chdir(fira_dir) do
+    Dir['**/*.{eot,otf,svc,woff,ttf}'].each do |asset|
+      sprockets.import_asset(asset)
+    end
+  end
 end
 
 ###
