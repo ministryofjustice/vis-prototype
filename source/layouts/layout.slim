@@ -11,5 +11,6 @@ html
       .large-12.columns
         = partial 'partials/layout/nav'
         = yield
+        = partial 'partials/layout/footer'
     = javascript_include_tag 'libs', 'app'
     = include_javascripts(current_page.data.javascripts || current_page.data.javascripts)
