@@ -12,6 +12,7 @@ set :layout, :article
 page "/", :layout => :homepage
 page "/index.html", :layout => :homepage
 page "/foundation.html", :layout => :layout
+page "/search-results.html", :layout => :layout
 
 # Per-page layout changes:
 #

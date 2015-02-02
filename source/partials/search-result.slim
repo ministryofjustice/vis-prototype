@@ -1,0 +1,9 @@
+div class=('panel' if panel)
+  h5 =result.name
+  dl
+    - if result.phone
+      dt Call us
+      dd =result.phone
+    - if result.url
+      dt Visit us online
+      dd =link_to result.url
