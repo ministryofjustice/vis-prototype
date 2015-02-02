@@ -6,18 +6,16 @@ hr
   .medium-8.columns
     h4 Key national helplines
     .panel
-      - data.searchResults.helplines.each do |result|
-        = partial 'partials/search-result', :locals => { :result => result }
+      = partial 'partials/search-result-block', :locals => { :results => data.searchResults.helplines }
     h4 Additional national helplines
     .panel
-      - data.searchResults.additional_helplines.each do |result|
-        = partial 'partials/search-result', :locals => { :result => result }
+      = partial 'partials/search-result-block', :locals => { :results => data.searchResults.additional_helplines }
   .medium-4.columns
     h4 Local support services
     p Your local police and crime commissioner has set up arrangements with various organisations that could help you. Please speak to or visit their contact centre to find out how to get the best help for the crime that affected you:
     dl
       dt London Victims Centre
-      dd =link_to "http://vc.mopac.police.gov.uk"
+      dd = link_to "http://vc.mopac.police.gov.uk"
       dt London Victims Helpline
       dd 0345 9999 999
       dt Opening hours

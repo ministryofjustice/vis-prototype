@@ -1,0 +1,10 @@
+- if defined? results
+  - results.each do |result|
+    h5 = result.name
+    dl
+      - if result.phone?
+        dt Call us
+        dd = result.phone
+      - if result.url?
+        dt Visit us online
+        dd = link_to result.url
