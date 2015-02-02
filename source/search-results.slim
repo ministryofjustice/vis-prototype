@@ -1,6 +1,6 @@
 br
 h1 Search results
-p.lead You are within the Metropolitan Police area
+p.lead Metropolitan Police area
 hr
 .row
   .medium-8.columns
@@ -12,7 +12,7 @@ hr
       = partial 'partials/search-result-block', :locals => { :results => data.searchResults.additional_helplines }
   .medium-4.columns
     h4 Local support services
-    p Your local police and crime commissioner has set up arrangements with various organisations that could help you. Please speak to or visit their contact centre to find out how to get the best help for the crime that affected you:
+    p Your local Police and Crime Commissioner has arrangements with organisations that could help you. Please speak to or visit their contact centre to find out how to get the best help for the crime that affected you:
     dl
       dt London Victims Centre
       dd = link_to "http://vc.mopac.police.gov.uk"
