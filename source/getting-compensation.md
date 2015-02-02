@@ -14,4 +14,4 @@ As a last resort you can apply to the [Criminal Injuries Compensation Authority 
 
 This process may take a long time. You do not need to have someone represent you.
 
-If you disagree with the CICA decision, you can apply to the [First-tier Tribunal (Criminal Injuries Compensation)](https://www.gov.uk/criminal-injuries-compensation-tribunal/appeal-to-tribunal).
+If you disagree with the CICA decision, you can apply to the [First-tier Tribunal (Criminal Injuries Compensation)](https://www.gov.uk/criminal-injuries-compensation-tribunal/overview).
