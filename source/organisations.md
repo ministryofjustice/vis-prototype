@@ -1,9 +1,9 @@
 ---
-title: Who uses the Victims Code?	
+title: Who takes part in the Victims Code?	
 ---
-The Victim's Code is about you - and is an agreement between all of the organisations in the justice process. They all know what you're entitled to across the whole justice system, and will make sure that you get to the people who should be helping you right now - no matter who you call.
+All of the organisations in the justice process have agreed to follow **The Victim's Code**. The code is about you and making sure these organisations help you in the right way. They all know what you're entitled to across the whole justice system, and will make sure that you get to the people who should be helping you right now - no matter who you call.
 
-For a case that goes all the way to trial you can expect to be contacted up to thirty times, so it's helpful to know who everyone is. Below this is a list of the organisations who support the code, and what they do. The most common ones are at the top, and then there is a full list of all the rest.
+For a case that goes all the way to trial you could be contacted up to thirty times, so it's helpful to know who everyone is. Below is a list of the organisations who support the code, and what they do. The most common ones are at the top, and then there is a full list of all the rest.
 
 **Remember:** none of these organisations can give you advice on the evidence you give, they can only advise you on the process
 
