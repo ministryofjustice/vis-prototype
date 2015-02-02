@@ -1,67 +1,57 @@
 ---
 title: Victims Information Service
 ---
+br
+br
+.panel
+  h1.text-center Victims Information Service
+  p =lorem.sentences 4
+  br
+  form.row action=""
+    h4.text-center Search for local victims services near you:
+    .large-8.columns.small-offset-2
+      .row.collapse
+        .small-9.columns
+          input type="text" placeholder="Enter your post code or local police authority"
+        .small-3.columns
+          input.button.postfix type="submit" value="Search"
+br
+h3 How does the Victims Information Service (VIS) work
+p =lorem.sentences 3
 .row
-  .large-12.columns
-    h1 Welcome to the Victims Information Service
-.row
-  .large-12.columns
-    h3 How does the Victims Information Service (VIS) work
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    .row
-      .large-4.medium-4.columns
-        h4
-          a The Justice Process for victims
-        p Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-        a Read more
-      .large-4.medium-4.columns
-        h4
-          a Getting compensation
-        p Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-        a Read more
-      .large-4.medium-4.columns
-        h4
-          a Glossary
-        p Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-        a Read more
-
-
-.row
-  .panel
-    .large-12.columns
-    h3 Search for local victims services near you:
-    form
-      input placeholder="Enter your post code or local police authority" type="text"
-      a.button Search
-
-
+  .large-4.medium-4.columns
+    h4
+      a The Justice Process for victims
+    p =lorem.sentences 3
+    a =link_to "About The Justice Process", "/justice-process.html"
+  .large-4.medium-4.columns
+    h4
+      a Getting compensation
+    p =lorem.sentences 3
+    a =link_to "Find out how to get compensation", "/getting-compensation.html"
+  .large-4.medium-4.columns
+    h4
+      a Glossary
+    p =lorem.sentences 3
+    a =link_to "See the full glossary", "/glossary.html"
+hr
 .row
   .large-8.medium-8.columns
     h2 Am I a victim?
     h6 Some common cases where you are
-    /! Grid Example
-    .row
-      .large-12.columns
-        .callout.panel
-          p
-            strong Children
-          p Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    .row
-      .large-12.columns
-        .callout.panel
-          p
-            strong Vulnerable
-          p Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.    .row
-      .large-12.columns
-        .callout.panel
-          p
-            strong Have been burgled
-          p Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    .callout.panel
+      h4 Children
+      p =lorem.sentences 3
+    .callout.panel
+      h4 Vulnerable
+      p =lorem.sentences 3
+    .callout.panel
+      h4 Have been burgled
+      p =lorem.sentences 3
   .large-4.medium-4.columns
     h4 Online safety
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  a.button Get me out of here
+    p =lorem.sentences 6
+    a.button.small Get me out of here
   .large-4.medium-4.columns
     h4 Complaints
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  .large-4.medium-4.columns
+    p =lorem.sentences 4
