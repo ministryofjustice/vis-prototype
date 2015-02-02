@@ -1,7 +1,5 @@
 require 'pry'
 require 'lib/skeleton'
-require 'rake/file_list'
-require 'pathname'
 
 activate :skeleton
 activate :autoprefixer
