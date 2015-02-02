@@ -1,8 +1,6 @@
 ---
 title: Justice process
 ---
-## Overview
-
 The information here is a summary of the full [Code of Practice for Victims of Crime](https://www.gov.uk/government/publications/the-code-of-practice-for-victims-of-crime) (The Victims' Code).
 
 The Victims' Code explains what should happen from when you tell the police about a crime until after the trial.
