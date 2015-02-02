@@ -17,8 +17,8 @@ If you are a victim of crime, you are entitled to:
 - be told what is happening with the trial and sentence
 - get help or support for going to court to give evidence
 - know if the person found guilty makes an appeal asking a different court to look at their case again
-- apply for compensation
 - information about restorative justice
+- apply for compensation
 - complain if you do not get the right information and support
 
 ## Extra support
