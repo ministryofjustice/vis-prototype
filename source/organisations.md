@@ -9,7 +9,7 @@ For a case that goes all the way to trial you can expect to be contacted up to t
 
 ## Most Frequent Organisations
 
-### All police forces in England and Wales
+### <a name="police"></a>All police forces in England and Wales
 Police forces will record and investigate the crime, gathering evidence. This normally includes asking you for a statement of what happened, and they may take photos. When they have enough evidence they will ask the Crown Prosecution Service to take the case to court.
 
 The police will conduct the first needs assessment to work out what support you need to deal with your crime. They will also be one of the organisations that decide if you'll need any special help in court if you're going to be a witness.
@@ -19,20 +19,29 @@ The Crown Prosecution Service look at the evidence the police have gathered and 
 
 You are unlikely to see anyone from the CPS until the day of a trial, but they will also be making sure you have had the support you need.
 
-### Witness Care Units (WCU)
+### <a name="wcu"></a>Witness Care Units (WCU)
 The Witness Care Unit will get in touch when the date for a crown court trial has been agreed and help explain the process to you. They will also check that any special arrangements such as video links are in place, and you have made a Victims Personal Statement if you want to.
 
-### Her Majesty's Courts and Tribunals Service (HMCTS)
+### <a name="hmcts"></a>Her Majesty's Courts and Tribunals Service (HMCTS)
 They run the courts for the judges, and will make sure any special arrangements are in place. 
 
 They will tell you the verdict of the court - if someone has been found guilty or not. They will make sure your Victims Personal Statement is read out. You can also ask a member of the HMCTS staff if you find any part of the process stressful or confusing.
 
-### National Offender Management Service (NOMS)
+### <a name="noms"></a>National Offender Management Service (NOMS)
 Responsible for prisoners, parole and community service. They should be let you know when someone connected with the crime against you is released, and may use your VPS to decide whether the person should be released yet or add any conditions on that release.
 
-### Criminal Injuries Compensation Authority
+### <a name="cica"></a>Criminal Injuries Compensation Authority
 In many situations you will have other better ways of getting compensation, such as insurance policies. However you can also apply to CICA if you have no other option. This process can take a long time, and you will need to have fully cooperated with the police and CPS to have your case considered.
 
 ## Other organisations
+These bodies have also signed up to the code. If you speak to them you can ask what your entitlements are, and they will also send you to other relevant organisations if they aren't the best ones to help.
+
 * Criminal Cases Review Commission
-* The First tier
+* The First-tier Tribunal (Criminal Injuries Compensation)
+* Her Majesty's Prison Service
+* The Parole Board
+* Police and Crime Commissioners
+* British Transport Police and Ministry of Defence Police
+* Providers of probation services, also known as probation trusts
+* UK Supreme Court
+* Youth Offending Teams
