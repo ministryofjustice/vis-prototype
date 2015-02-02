@@ -11,15 +11,17 @@ The Victims' Code explains:
 
 - victims' support services
 - who can get support
-- your rights: what support victims must get
-- support while the police are investigating a crime
-- support before the trial
-- support during the trial
-- support after the trial
+- [your rights](your-rights.html): what support victims must get
+- support [while the police are investigating a crime](justice-article.html#police-investigation)
+- support [before the trial](justice-article.html#before-trial)
+- support [during the trial](justice-article.html#during-trial)
+- support [after the trial](justice-article.html#after-trial)
 
 There is also extra support for victims of more serious crimes such as:
 
 - rape and other sex offences
 - domestic abuse: being abused by someone you live with 
 - human trafficking: being brought to this or another country against your will
-- terrorism, attempted murder or grevious bodily harm 
+- terrorism, attempted murder or grevious bodily harm
+
+You can read a full list of [organisations that are part of The Victims' Code](organisations.html). 
