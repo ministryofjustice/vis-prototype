@@ -7,7 +7,7 @@ The information here is a summary of the full [Code of Practice for Victims of C
 
 The Victims' Code explains what should happen from when you tell the police about a crime until after the trial.
 
-Support is available at every stage of the process so you understand what is happening and can get answers to your questions.
+Support is available at every stage of the justice process so you understand what is happening and can get answers to your questions.
 
 The Victims' Code explains:
 
@@ -19,6 +19,7 @@ The Victims' Code explains:
 - support during the trial
 - support after the trial
 
+<<<<<<< Updated upstream
 ## Victims' support services
 
 The services supporting victims of most crimes in England and Wales are provided through your local Police and Crime Commissioner (PCC).
@@ -80,3 +81,11 @@ You are also entitled to claim back any money you spent to go to court.
 ### Appeals
 This is when a convicted person asks another court to look at the case again.
 The Witness Care Unit must tell you what is happening and if there is a change to the sentence the person was given.
+=======
+There is also extra support for victims of more serious crimes such as:
+
+- rape and other sex offences
+- domestic abuse: being abused by someone you live with 
+- human trafficking: being brought to this or another country against your will
+- terrorism, attempted murder or grevious bodily harm 
+>>>>>>> Stashed changes
