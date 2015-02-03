@@ -10,7 +10,7 @@ html
     = partial 'partials/layout/nav'
     .row
       .large-12.columns
-        = yield
-        = partial 'partials/layout/footer'
+    = yield
+    = partial 'partials/layout/footer'
     = javascript_include_tag 'libs', 'app'
     = include_javascripts(current_page.data.javascripts || current_page.data.javascripts)
