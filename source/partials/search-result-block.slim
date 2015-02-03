@@ -1,7 +1,7 @@
 - if defined? results
   - results.each do |result|
     h5 = result.name
-    dl
+    dl.compact
       - if result.phone?
         dt Call us
         dd = result.phone

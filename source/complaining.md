@@ -4,11 +4,11 @@ title: Complaining
 
 If your problem is with:
 
-* <a href="#signatories">an organisation that has signed up to The Victims Code</a>
-* <a href="#local">a charity or helpline that your local police or victims' contact centre have sent you to</a>
-* <a href="#website">the content or function of this digital service</a>
+* [an organisation that has signed up to The Victims Code](#signatories)
+* [a charity or helpline that your local police or victims' contact centre have sent you to](#local)
+* [the content or function of this digital service](#website)
 
-##<a name="signatories"></a>Problems with Government Services
+## <a name="signatories"></a>Problems with Government Services
 Under the Victims' Code, you're entitled to be treated by [any of its service organisations](/organisations.html) (e.g. the police, courts) in a respectful, sensitive and professional manner without discrimination of any kind.
 
 If this doesn't happen, or they don't live up to their other promises under the code, then you're entitled to make a complaint. You can also expect that complaint to be swiftly and fully addressed.
@@ -23,14 +23,14 @@ The response should also be in a format and language you can understand.
 
 If still not satisfied, you can ask your Member of Parliament to pass your complaint to the [Parliamentary and Health Service Ombudsman](http://www.ombudsman.org.uk/make-a-complaint).
 
-##<a name="local"></a>Problems with local services
+## <a name="local"></a>Problems with local services
 Not all of the local services you can be sent to have signed up to The Victims' Code. If a local organisation hasn't delivered the service you'd expect, you should raise these with the local victims helpline. You can search for this by entering your postcode on the homepage.
 
 Your local police, and your local Police and Crime Commissioner who arranged these services, have signed up to The Victims Code. You can therefore expect your complaint to be taken just as seriously.
 
-##<a name="website"></a>Problems with this website
+## <a name="website"></a>Problems with this website
 
-If you have an issue with the content of this website or the way that it works, please contact the phone number on the homepage and they will log the issue for you. Alternatively send an email to viswebsite@ministryofjustice.zendesk.com but please don't include any confidential information.
+If you have an issue with the content of this website or the way that it works, please contact the phone number on the homepage and they will log the issue for you. Alternatively send an email to [viswebsite@ministryofjustice.zendesk.com](mailto:viswebsite@ministryofjustice.zendesk.com) but please don't include any confidential information.
 
 
 
