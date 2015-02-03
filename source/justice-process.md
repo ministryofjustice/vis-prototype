@@ -12,10 +12,10 @@ The Victims' Code explains:
 - victims' support services
 - who can get support
 - [your rights](your-rights.html): what support victims must get
-- support [while the police are investigating a crime](justice-article.html#police-investigation)
-- support [before the trial](justice-article.html#before-trial)
-- support [during the trial](justice-article.html#during-trial)
-- support [after the trial](justice-article.html#after-trial)
+- support [while the police are investigating a crime](/justice-article.html#police-investigation)
+- support [before the trial](/justice-article.html#before-trial)
+- support [during the trial](/justice-article.html#during-trial)
+- support [after the trial](/justice-article.html#after-trial)
 
 There is also [extra support](special-measures.html) for victims of more serious crimes such as:
 
@@ -24,4 +24,4 @@ There is also [extra support](special-measures.html) for victims of more serious
 - human trafficking: being brought to this or another country against your will
 - terrorism, attempted murder or grevious bodily harm
 
-You can read a full list of [organisations that are part of The Victims' Code](organisations.html). 
+You can read a full list of [organisations that are part of The Victims' Code](/organisations.html). 

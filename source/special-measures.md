@@ -7,10 +7,10 @@ Some victims of crime can find it difficult or scary to talk about what happened
 When you go to the police 
 
 * you should be able to ask to give evidence in a private room if you find it embarrassing
-* you can ask for a [Needs Assessment](glossary.html#needs-assessment) to make sure you get special help on further visits.
+* you can ask for a [Needs Assessment](/glossary.html#needs-assessment) to make sure you get special help on further visits.
 
 
-When the case goes to court the <a href="organisations#wcu">Witness Care Unit</a> will decide whether you need
+When the case goes to court the [Witness Care Unit](/organisations.html#wcu) will decide whether you need
 
 *  screens in court so that you cannot see the suspect or their family
 *  to use a video link from a different room in the court building into the courtroom
@@ -21,7 +21,7 @@ When the case goes to court the <a href="organisations#wcu">Witness Care Unit</a
 
 If a member of your family was killed in the crime 
 
-* you can meet the [Crown Prosecution Service](organisations.html#cps) to tell them you made a Victim Personal Statement and that it is up to date, so that it can be read out in court
+* you can meet the [Crown Prosecution Service](/organisations.html#cps) to tell them you made a Victim Personal Statement and that it is up to date, so that it can be read out in court
 * you should be told if the person is found not guilty or they are charged with a crime that isn't so serious
 * the CPS should also explain the sentence given.
 
