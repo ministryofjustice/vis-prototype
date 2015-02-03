@@ -1,5 +1,8 @@
 require 'pry'
 require 'lib/skeleton'
+require "lib/custom_helpers"
+
+helpers CustomHelpers
 
 activate :skeleton
 activate :autoprefixer
