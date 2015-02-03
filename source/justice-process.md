@@ -17,7 +17,7 @@ The Victims' Code explains:
 - support [during the trial](justice-article.html#during-trial)
 - support [after the trial](justice-article.html#after-trial)
 
-There is also extra support for victims of more serious crimes such as:
+There is also [extra support](special-measures.html) for victims of more serious crimes such as:
 
 - rape and other sex offences
 - domestic abuse: being abused by someone you live with 
