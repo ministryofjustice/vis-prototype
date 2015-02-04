@@ -5,6 +5,6 @@ title: Glossary
 dl
   - data.glossary.each do |item|
     dt
-      = link_to "", "##{urlize(item.name)}"
+      a name="#{urlize(item.name)}"
       = item.name
     dd = item.definition
