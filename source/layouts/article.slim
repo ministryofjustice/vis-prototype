@@ -1,16 +1,19 @@
 = wrap_layout :layout do
 
-  br
-  h1 =current_page.data.title
+  header.page-header
+    .row
+      .medium-12.columns
+        h1 =current_page.data.title
   .row
     .large-8.columns
       = yield
     .large-4.columns
       .panel
         h4 Glossary
-        p A guide to legal language.
+        dl
+          - data.glossary.shuffle.first(3).each do |item|
+            dt
+              a name="#{urlize(item.name)}"
+              = item.name
+            dd = item.definition
         a =link_to "See the full glossary", "/glossary.html"
-      .panel
-        h4 Your rights
-        p All victims of crime have a right to information and support from organisations like the police and the courts.
-        a =link_to "Learn more about your rights", "/your-rights.html"

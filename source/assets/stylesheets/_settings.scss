@@ -53,8 +53,12 @@ $font-family-sans-serif: "Fira Sans", "Helvetica Neue", "Helvetica", Helvetica, 
 // $default-float: left;
 
 // We use these as default colors throughout
-// $primary-color: #008CBA;
-// $secondary-color: #e7e7e7;
+$white: #ffffff;
+$black: #242424;
+$grey: #D8D8D8;
+$light-grey: #F7F7F7;
+$primary-color: #445878;
+$secondary-color: #92CDCF;
 // $alert-color: #f04124;
 // $success-color: #43AC6A;
 // $warning-color: #f08a24;
@@ -765,7 +769,7 @@ $font-family-sans-serif: "Fira Sans", "Helvetica Neue", "Helvetica", Helvetica, 
 
 // We use these to control the background and border styles
 // $panel-bg: scale-color(#fff, $lightness: -5%);
-// $panel-border-style: solid;
+$panel-border-style: none;
 // $panel-border-size: 1px;
 
 // We use this % to control how much we darken things on hover
@@ -1125,7 +1129,7 @@ $font-family-sans-serif: "Fira Sans", "Helvetica Neue", "Helvetica", Helvetica, 
 // $include-html-top-bar-classes: $include-html-classes;
 
 // Background color for the top bar
-$topbar-bg-color: #333;
+$topbar-bg-color: $primary-color;
 // $topbar-bg: $topbar-bg-color;
 
 // Height and margin
@@ -1146,16 +1150,16 @@ $topbar-bg-color: #333;
 // $topbar-dropdown-toggle-alpha: 0.4;
 
 // Set the link colors and styles for top-level nav
-// $topbar-link-color: #fff;
-// $topbar-link-color-hover: #fff;
-// $topbar-link-color-active: #fff;
-// $topbar-link-color-active-hover: #fff;
+$topbar-link-color: $secondary-color;
+$topbar-link-color-hover: #fff;
+$topbar-link-color-active: $primary-color;
+$topbar-link-color-active-hover: $primary-color;
 // $topbar-link-weight: normal;
 // $topbar-link-font-size: rem-calc(13);
 // $topbar-link-hover-lightness: -10%; // Darken by 10%
-$topbar-link-bg-hover: lighten($topbar-bg-color, 10%);
-// $topbar-link-bg-active: $primary-color;
-// $topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%);
+$topbar-link-bg-hover: $topbar-bg-color;
+$topbar-link-bg-active: $secondary-color;
+$topbar-link-bg-active-hover: $secondary-color;
 // $topbar-link-font-family: $body-font-family;
 
 // $topbar-button-font-size: 0.75rem;

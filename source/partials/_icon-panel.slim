@@ -1,0 +1,7 @@
+.large-4.medium-4.columns class=("medium-offset-#{data.offset}" if data.offset)
+  .round-icon
+    - if defined? shape
+      = partial 'partials/svg', :locals => { :shape => shape }
+  h4 = link_to data.title, data.url
+  p = data.text
+  p = link_to data.linkText, data.url
