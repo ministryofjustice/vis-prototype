@@ -74,22 +74,23 @@ dl.compact dd {
   svg {
     height: 16px;
     width: 16px;
-    margin-right: 5px;
+    margin-right: 8px;
     position: relative;
     top: 2px;
+    float: left;
     .svg-path {
       fill: $white;
     }
   }
   h1 {
     color: $white;
-    margin: 0 10px 0 0;
+    margin: 1px 10px 0 0;
     font-size: rem-calc(16);
-    display: inline;
+    float: left;
   }
   p {
-    display: inline;
-    margin: 0 10px 0 0;
+    float: left;
+    margin: 4px 10px 0 0;
     font-size: rem-calc(12);
   }
   a {
