@@ -23,15 +23,6 @@ iconPanels:
           linkText: Find out how to get compensation
           url: /getting-compensation.html
           icon: pound
-    -
-      panels:
-        -
-          title: Online safety
-          text: The best way to stay safe is to use a completely different computer - at a library or from a friend. This guide from Womens Aid tells you more.
-          linkText: Get me out of here
-          url: http://www.womensaid.org.uk/page.asp?section=00010001000800010001
-          icon: padlock
-          offset: 4
 crimePanels:
   rows:
     -
