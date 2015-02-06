@@ -1,61 +1,30 @@
 ---
 title: Victims' Information Service
 ---
-br
-br
-.panel
-  h1.text-center Victims' Information Service
-  p Victims' Information Service (VIS) connects you with the local victims' support provided through your Police and Crime Commissioner.
-  p It also provides:
-  ul
-    li the information you need to understand the justice process
-    li everything you are entitled to or can expect if you are a victim of crime
-    li information on how to make a complaint or get compensation
-  br
-  form.row action="search-results.html"
-    h4.text-center Find victims' services near you
-    .large-8.columns.small-offset-2
-      .row.collapse
-        .small-9.columns
-          input type="text" placeholder="Enter your post code or local police authority"
-        .small-3.columns
-          input.button.postfix type="submit" value="Search"
-br
-h3 Useful information for victims of crime
-.row
-  .large-4.medium-4.columns
-    h4 = link_to "The justice process", "/justice-process.html"
-    p What you should expect to happen from reporting a crime until after a trial.
-    = link_to "About the justice process", "/justice-process.html"
-  .large-4.medium-4.columns
-    h4 = link_to "Getting compensation", "/getting-compensation.html"
-    p From insurance claims to the government's own compensation fund.
-    = link_to "Find out how to get compensation", "/getting-compensation.html"
-  .large-4.medium-4.columns
-    h4 = link_to "Glossary", "/glossary.html"
-    p A guide to legal language.
-    = link_to "See the full glossary", "/glossary.html"
-hr
-.row
-  .large-8.medium-8.columns
-    h2 Am I a victim?
-    h6 Some common cases where you are
-    .callout.panel
-      h4 I am a child victim of a crime
-      p The Victims' Code says under 18s should get special support for giving evidence. This might mean giving evidence by a video link to the court, or special helplines to give you support after the crime.
-      = link_to "More on child victims", "/victims-article.html"
-    .callout.panel
-      h4 I am a victim of domestic violence
-      p The Victims’ Code outlines the support you should get so you can give evidence in court without intimidation. Your Victim's Personal Statement may affect sentencing or parole. There are also national and local helplines.
-      = link_to "More on domestic violence", "/victims-article.html"
-    .callout.panel
-      h4 My house has been burgled
-      p This can be very distressing, but getting a crime number so you can make an insurance claim is the first step in recovery. If the crime has affected your livelihood, a Victim's Personal Statement may influence sentencing. Local support is also available for those struggling to recover - search above
-  .large-4.medium-4.columns
-    h4 Online safety
-    p The best way to stay safe is to use a completely different computer - at a library or from a friend. This guide from Womens Aid tells you more.
-    = link_to "Get me out of here", "http://www.womensaid.org.uk/page.asp?section=00010001000800010001", {:class => 'button small'}
-  .large-4.medium-4.columns
-    h4 Complaints
-    p What to do when things go wrong.
-    = link_to "Find out about how to complain", "/complaining.html"
+header.page-header
+  .row
+    .medium-12.columns
+      br
+      h1.color-white.text-center = data.homepage.title
+      br
+      form.row.text-center action="search-results.html"
+        label for="q"
+          h4.color-white = data.homepage.searchLabel
+        .small-6.columns.small-offset-3
+          input.text-center type="text" placeholder="#{data.homepage.searchPlaceholder}" id="q"
+          .row.collapse
+            .small-4.columns.small-offset-4
+              input.button.postfix type="submit" value="Search"
+- data.homepage.iconPanels.rows.each do |row|
+  .row.text-center
+    - row.panels.each do |panel|
+      = partial 'partials/icon-panel', :locals => { :data => panel, :shape => data.icons[panel.icon].path }
+.bg-lightGrey
+  .row
+    .medium-12.columns
+      br
+      h3.text-center Am I a victim? Some common cases:
+  - data.homepage.crimePanels.rows.each do |row|
+    .row
+      - row.panels.each do |panel|
+        = partial 'partials/box-panel', :locals => { :data => panel }

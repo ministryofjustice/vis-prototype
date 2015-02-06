@@ -1,0 +1,7 @@
+.medium-4.columns
+  .box
+    h5.heading = data.title
+    .content
+      p = data.text
+      - if data.url && data.linkText
+        p = link_to data.linkText, data.url

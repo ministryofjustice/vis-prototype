@@ -1,0 +1,52 @@
+title: Victims' Information Service
+searchLabel: Find victims' services near you
+searchPlaceholder: Enter your post code or local police authority
+iconPanels:
+  rows:
+    -
+      panels:
+        -
+          title: The justice justice
+          text: What you should expect to happen from reporting a crime until after a trial.
+          linkText: About the justice process
+          url: /justice-process.html
+          icon: bank
+        -
+          title: Glossary
+          text: A guide to legal language.
+          linkText: See the full glossary
+          url: /glossary.html
+          icon: book
+        -
+          title: Getting compensation
+          text: From insurance claims to the government's own compensation fund.
+          linkText: Find out how to get compensation
+          url: /getting-compensation.html
+          icon: pound
+    -
+      panels:
+        -
+          title: Online safety
+          text: The best way to stay safe is to use a completely different computer - at a library or from a friend. This guide from Womens Aid tells you more.
+          linkText: Get me out of here
+          url: http://www.womensaid.org.uk/page.asp?section=00010001000800010001
+          icon: padlock
+          offset: 4
+crimePanels:
+  rows:
+    -
+      panels:
+        -
+          title: I am a child victim of a crime
+          text: The Victims' Code says under 18s should get special support for giving evidence. This might mean giving evidence by a video link to the court, or special helplines to give you support after the crime.
+          linkText: More on child victims
+          url: /victims-article.html
+        -
+          title: I am a victim of domestic violence
+          text: The Victims' Code outlines the support you should get so you can give evidence in court without intimidation. Your Victim's Personal Statement may affect sentencing or parole. There are also national and local helplines.
+          linkText: More on domestic violence
+          url: /victims-article.html
+        -
+          title: My house has been burgled
+          text: |
+            This can be very distressing, but getting a crime number so you can make an insurance claim is the first step in recovery. If the crime has affected your livelihood, a Victim's Personal Statement may influence sentencing. Local support is also available for those struggling to recover - search above.

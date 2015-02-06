@@ -1,25 +1,29 @@
-br
-h1 Search results
-p.lead Metropolitan Police area
-hr
-h4 Key national helplines
-.panel
-  = partial 'partials/search-result-block', :locals => { :results => data.searchResults.helplines }
-h4 Local support services
-.panel
-  p Your local Police and Crime Commissioner has arrangements with organisations that could help you. Please speak to or visit their contact centre to find out how to get the best help for the crime that affected you:
-  dl
-    dt London Victims Centre
-    dd = link_to "http://vc.mopac.police.gov.uk"
-    dt London Victims Helpline
-    dd 0345 9999 999
-    dt Opening hours
-    dd
-      | 9am to 5pm Monday to Friday
-      br
-      | 9am to 3pm Saturday
-      br
-      | 10am to 3pm Sunday
-h4 Additional national helplines
-.panel
-  = partial 'partials/search-result-block', :locals => { :results => data.searchResults.additional_helplines }
+header.page-header
+  .row
+    .medium-12.columns
+      h1 Search results
+.row
+  .large-12.columns
+    p.lead Metropolitan Police area
+    hr
+    h4 Key national helplines
+    .panel
+      = partial 'partials/search-result-block', :locals => { :results => data.searchResults.helplines }
+    h4 Local support services
+    .panel
+      p Your local Police and Crime Commissioner has arrangements with organisations that could help you. Please speak to or visit their contact centre to find out how to get the best help for the crime that affected you:
+      dl
+        dt London Victims Centre
+        dd = link_to "http://vc.mopac.police.gov.uk"
+        dt London Victims Helpline
+        dd 0345 9999 999
+        dt Opening hours
+        dd
+          | 9am to 5pm Monday to Friday
+          br
+          | 9am to 3pm Saturday
+          br
+          | 10am to 3pm Sunday
+    h4 Additional national helplines
+    .panel
+      = partial 'partials/search-result-block', :locals => { :results => data.searchResults.additional_helplines }
