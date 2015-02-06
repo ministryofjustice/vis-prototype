@@ -120,6 +120,7 @@ configure :development do
   # Enable Livereload
   activate :livereload, no_swf: true
   # Slim pretty-print
+  Slim::Engine.disable_option_validator!
   Slim::Engine.set_default_options pretty: true
   # Compass configuration
   compass_config do |config|
