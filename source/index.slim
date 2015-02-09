@@ -15,10 +15,11 @@ header.page-header
           .row.collapse
             .small-4.columns.small-offset-4
               input.button.postfix type="submit" value="Search"
-- data.homepage.iconPanels.rows.each do |row|
-  .row.text-center
-    - row.panels.each do |panel|
-      = partial 'partials/icon-panel', :locals => { :data => panel, :shape => data.icons[panel.icon].path }
+.bg-white
+  - data.homepage.iconPanels.rows.each do |row|
+    .row.text-center
+      - row.panels.each do |panel|
+        = partial 'partials/icon-panel', :locals => { :data => panel, :shape => data.icons[panel.icon].path }
 .bg-lightGrey
   .row
     .medium-12.columns

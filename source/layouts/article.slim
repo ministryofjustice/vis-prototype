@@ -4,16 +4,17 @@
     .row
       .medium-12.columns
         h1 =current_page.data.title
-  .row
-    .large-8.columns
-      = yield
-    .large-4.columns
-      .panel
-        h4 Glossary
-        dl
-          - data.glossary.shuffle.first(3).each do |item|
-            dt
-              a name="#{urlize(item.name)}"
-              = item.name
-            dd = item.definition
-        a =link_to "See the full glossary", "/glossary.html"
+  .bg-white
+    .row
+      .large-8.columns
+        = yield
+      .large-4.columns
+        .panel
+          h4 Glossary
+          dl
+            - data.glossary.shuffle.first(3).each do |item|
+              dt
+                a name="#{urlize(item.name)}"
+                = item.name
+              dd = item.definition
+          a =link_to "See the full glossary", "/glossary.html"
