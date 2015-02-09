@@ -2,33 +2,34 @@ header.page-header
   .row
     .medium-12.columns
       h1 Search results
-.row
-  .large-12.columns
-    p.lead
-      | Details on the service for
-      strong  Metropolitan Police
-      |  area:
-    hr
-    h4 1. Key national helplines for the most serious crimes
-    .panel
-      = partial 'partials/search-result-block', :locals => { :results => data.searchResults.helplines }
-    h4 2. Local support helpline and directory
-    .panel
-      p If your problem isn't covered by one of the national helplines for the most serious crimes above, your local Police and Crime Commissioner has made arrangements for support across many local and national charities and organisations.
-      p They have a service that can help you work out what help you need and answer any other questions you have.
-      p If you haven't reported your crime to the police they can still help you.
-      dl
-        dt London Victims Centre
-        dd = link_to "http://vc.mopac.police.gov.uk"
-        dt London Victims Helpline
-        dd 0345 9999 999
-        dt Opening hours
-        dd
-          | 9am to 5pm Monday to Friday
-          br
-          | 9am to 3pm Saturday
-          br
-          | 10am to 3pm Sunday
-    h4 3. Additional national helplines
-    .panel
-      = partial 'partials/search-result-block', :locals => { :results => data.searchResults.additional_helplines }
+.bg-white
+  .row
+    .large-12.columns
+      p.lead
+        | Details on the service for
+        strong  Metropolitan Police
+        |  area:
+      hr
+      h4 1. Key national helplines for the most serious crimes
+      .panel
+        = partial 'partials/search-result-block', :locals => { :results => data.searchResults.helplines }
+      h4 2. Local support helpline and directory
+      .panel
+        p If your problem isn't covered by one of the national helplines for the most serious crimes above, your local Police and Crime Commissioner has made arrangements for support across many local and national charities and organisations.
+        p They have a service that can help you work out what help you need and answer any other questions you have.
+        p If you haven't reported your crime to the police they can still help you.
+        dl
+          dt London Victims Centre
+          dd = link_to "http://vc.mopac.police.gov.uk"
+          dt London Victims Helpline
+          dd 0345 9999 999
+          dt Opening hours
+          dd
+            | 9am to 5pm Monday to Friday
+            br
+            | 9am to 3pm Saturday
+            br
+            | 10am to 3pm Sunday
+      h4 3. Additional national helplines
+      .panel
+        = partial 'partials/search-result-block', :locals => { :results => data.searchResults.additional_helplines }
