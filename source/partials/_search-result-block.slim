@@ -3,8 +3,6 @@
     h5 = result.name
     dl.compact
       - if result.phone?
-        dt Call us
         dd = result.phone
       - if result.url?
-        dt Visit us online
         dd = link_to result.url
