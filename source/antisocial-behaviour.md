@@ -1,5 +1,5 @@
 ---
-title: Antisocial behavious
+title: Antisocial behaviour
 ---
 
 Antisocial behaviour (ASB) can take on many forms, some can be legally defined as crimes, others may not be, but they may still have the same kind of effect on you.
