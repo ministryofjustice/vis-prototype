@@ -107,6 +107,28 @@ body {
   }
 }
 
+// inline search
+.inline-search {
+  margin-top: 20px;
+
+  input[type="text"] {
+    height: 30px;
+    width: 86%;
+    float: left;
+  }
+
+  .button {
+    background: $primary-color url(../images/icons/search-small.svg) no-repeat center center;
+    text-indent: -1000px;
+    overflow: hidden;
+    height: 30px;
+    width: 10%;
+    margin: 0;
+    padding: 0;
+    float: right;
+  }
+}
+
 // security banner
 .security-banner {
   background-color: $black;
