@@ -1,27 +1,20 @@
 ---
-title: Fraud
+title: Stalking or harrassment
 ---
 
-Many people are taken in by fraudsters – criminals that use clever tactics and tricks to try and manipulate their victims. However you're feeling or whenever the crime took place, you can talk to someone from Victim Support in complete confidence.
+Stalking and harassment are typically caused by the same person and are very similar in that both create on-going problems for victims.
 
-Fraud is when someone steals property, goods or money by tricking, or trying to trick you.
+Individual incidents taken on their own might not seem too serious, such as a rude remark in the street or persistent phone calls, but they can also involve deeply traumatic events – threats of violence, aggression, criminal damage and worse. 
 
-Some common words to describe types of fraud include: 'scam', 'con', 'trick', 'sham', 'false representation' 'swindle', 'deceit', and many more.
+What makes the problem particularly hard to cope with is that it can go on over a long period of time, making victims constantly anxious and afraid. Sometimes the problem can build up slowly and it can take a while for the victim to realise that they are caught up in an on-going campaign of abuse. The problem isn't always 'physical' because of the internet and 'cyber-stalking' or online threats can be just as intimidating for the victim. 
 
-One common tactic used by fraudsters is to use a false identity to commit crimes.
+One of the things that can make it difficult for police and others to deal with harassment and stalking is the 'drip, drip, drip' nature of the incidents. Helping the police and courts to see the bigger picture can make it much easier to deal with the offender's behaviour.
 
-For example:
+Things you can do, straightaway, if you think you are suffering harassment or stalking include: 
 
-- They might use fake name badges and identification.
-- They might deceive you into buying goods or services that are not for sale, or don't exist.
-- They may provide a service, often of poor quality, but charge you many times the original amount quoted, without reason.
-- They may trick you into giving them money, even large amounts, possibly over a long period of time.
-- They may resort to trying to frighten, bully or harass you to get more money.
+- Keeping a diary of events. Write down the date, time, location and details of what happened. It's also a good idea to include information about any other witnesses who can confirm what happened. 
+- Keeping copies of letters, text messages, emails and take screen prints of other online messages (eg on Facebook).
+- Trying to get 'evidence' of any events that happen at your home – but be careful to do this discreetly. Waving a camera at someone who is harassing you is unlikely to help and could make things worse.
+- Stalking was made a criminal offence in England and Wales in November 2012. Two new offences were introduced – stalking, and stalking where there is a fear of violence. The changes were made under the Protection of Freedoms Act 2012.
 
-Identity theft
-
-Identity theft is specifically when someone commits fraud by using your personal details to commit crime.
-
-This can include deceiving others to open bank accounts, applying for loans, or purchasing goods and services using your bank details and money. It can also extend to 'borrowing' your identity to hide debts or poor credit ratings and, in extreme cases, creating identity documents.
-
-This crime can be extremely damaging, as not only do you feel powerless to stop the crimes being committed, you may not even be aware that it's happening until it is too late.
+If you call your local victims helpline, they can assess the situation and see what support you need, even if you aren't ready to report the crime yet. Enter your postcode on our homepage to find the link to online and telephone help for your area.
