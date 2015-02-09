@@ -5,6 +5,9 @@
   name: Your rights
   url: /your-rights.html
 -
+  name: Support
+  url: /support-recovering-from-crime-help-with-justice-process.html
+-
   name: Who you’ll meet
   url: /organisations.html
 -
@@ -16,3 +19,6 @@
 -
   name: Complaints
   url: /complaining.html
+-
+  name: About
+  url: /about.html
