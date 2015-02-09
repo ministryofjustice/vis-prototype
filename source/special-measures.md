@@ -2,9 +2,9 @@
 title: Special Measures
 ---
 
-Some victims of crime can find it difficult or scary to talk about what happened to them. The Victims Code means that organisations have agreed to give extra help to these people to make sure they get the best chance of a fair trial.
+Some victims of crime can find it difficult or scary to talk about what happened. The Victims' Code means that organisations have agreed to give extra help to these people to make sure they get the best chance of a fair trial.
 
-When you go to the police 
+When you go to the police
 
 - you should be able to ask to give evidence in a private room if you find it embarrassing
 - you can ask for a [Needs Assessment](/glossary.html#needs-assessment) to make sure you get special help on further visits.
