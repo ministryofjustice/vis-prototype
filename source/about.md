@@ -1,34 +1,18 @@
 ---
-title: Your rights
+title: What is the Victims' Information Service?
 ---
-## Overview
 
-All victims of crime have a right to information and support from organisations like the police and the courts.
+The Victims' Information Service gives help in the following areas:
 
-If you are a victim of crime, you are entitled to:
+## Giving Support
 
-- an assessment to find out what support you need
-- get information about what to expect
-- make a [Victim Personal Statement](#vps) about the crime
-- [extra support](/special-measures.html) if you are a victim of a serious crime, are being threatened, or vulnerable in another way
-- information about [restorative justice](/glossary.html#restorative-justice)
-- have your details passed to other organisations that help and support victims of crime in your area
-- get information about what the police are doing
-- be told what is happening with the trial and sentence
-- get help or support for going to court to give evidence
-- know if the person found guilty makes an appeal asking a different court to look at their case again
-- ask the Crown Prosecution Service ([CPS](/organisations.html#cps)) to look at things again if you are not happy with what they decide
-- apply for [compensation](/getting-compensation.html)
-- [complain](/complaining.html) if you do not get the right information and support
+* Helping you find your way to the new locally-provided support for victims of crimes. You can get this through the postcode search on our [homepage](index.html).
 
-## <a name="special-measures"></a>Extra support
+## Providing Information
+* Helping you understand the [justice process](justice-process.html)
+* Helping you understand the [organisations](organisations.html) involved in the justice process
+* Helping you understand the [entitlements](your-rights.html) you have under The Victims' Code - the things you can expect and ask for
+* Telling you how you can get [compensation](compensation.html) for a crime
+* Telling you [where to complain](complaining.html) if something goes wrong.
 
-For victims of more serious crimes, extra support is available if you are:
 
-- vulnerable or being threatened
-- a victim of lots of crimes, for example, stalking
-- a victim of rape or other sex offences
-- being abused by someone you live with
-- a victim of human trafficking
-
-Find out more about [the extra help you can get](/special-measures.html).
