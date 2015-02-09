@@ -15,6 +15,11 @@ dl.compact dd {
   margin-bottom: 0;
 }
 
+// top bar colour hack - just for Jim
+.top-bar-section li.active a {
+  font-weight: 500;
+}
+
 // Cloudy page header
 .page-header {
   background-image: url(../images/clouds.png);
