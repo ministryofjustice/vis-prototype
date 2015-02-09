@@ -2,7 +2,7 @@
 title: Hate crime
 ---
 
-A hate crime occurs when a person is targeted because of hostility or prejudice towards their:
+A hate crime occurs when a person is targeted because of their:
 
 - disability
 - race or ethnicity
@@ -16,8 +16,6 @@ Being a victim of this kind of crime can be a particularly frightening experienc
 
 Hate incidents can feel like crimes to those who suffer them and often escalate to crimes or tension in a community. You can report such incidents, but the police can only prosecute when the law is broken.
 
-Where can hate crime take place?
-
 Hate crime can take place anywhere:
 
 - home
@@ -26,9 +24,9 @@ Hate crime can take place anywhere:
 - schools
 - colleges
 - sporting events
-- social media (ie Facebook, Twitter)
+- social media (for example Facebook, Twitter)
 
-Incidents can include:
+Incidents include:
 
 - threats
 - verbal abuse
