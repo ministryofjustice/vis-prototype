@@ -1,6 +1,6 @@
 title: Victims' Information Service
 searchLabel: Find help and support near you
-searchPlaceholder: Enter your post code or local police authority
+searchPlaceholder: Enter your home post code or local police authority
 iconPanels:
   rows:
     -
@@ -29,48 +29,63 @@ crimePanels:
       panels:
         -
           title: I am under 18 and a victim
-          text: The Victims' Code says under 18s should get special support for giving evidence. This might mean giving evidence by a video link to the court, or special helplines to give you support after the crime.
+          text: |
+            The Victims' Code says under 18s should get special support for giving evidence.
+            This might mean giving evidence by a video link to the court, or special helplines to give you support after the crime.
           linkText: More on child victims
-          url: /victims-article.html
+          url: /under-18.html
         -
           title: I am a victim of domestic violence
-          text: The Victims' Code outlines the support you should get so you can give evidence in court without intimidation. Your Victim's Personal Statement may affect sentencing or parole. There are also national and local helplines.
+          text: |
+            The Victims' Code outlines the support you should get so you can give evidence in court without intimidation.
+            Your Victim's Personal Statement may affect sentencing or parole. There are also national and local helplines.
           linkText: More on domestic violence
           url: /victims-article.html
         -
           title: I have been burgled or robbed
-          text: This can be very distressing, but getting a crime number so you can make an insurance claim is the first step in recovery. If the crime has affected your ability to work, a Victim's Personal Statement may influence sentencing.
+          text: |
+            This can be very distressing, but getting a crime number so you can make an insurance claim is the first step in recovery.
+            If the crime has affected your ability to work, a Victim's Personal Statement may influence sentencing.
           linkText: Support for Burglary or Robbery
           url: /burglary-robbery-support.html
     -
       panels:
         -
           title: A close relative was killed in a crime
-          text: The Victims' Code says that you are still entitled to support if you have been affected by the death of a close relative in a violent crime.
+          text: |
+            The Victims' Code says that you are still entitled to support if you have been affected by the death of a close relative in a violent crime.
           linkText: Support for relatives
-          url: /victims-article.html
+          url: /relative-of-victim.html
         -
           title: I am being stalked or harrassed
-          text: The Victims' Code outlines the support you should get so you can give evidence in court without intimidation. Your Victim's Personal Statement may affect sentencing or parole. There are also national and local helplines.
-          linkText: Stalking and Harrassment
-          url: /victims-article.html
-        -
-          title: My house has been burgled
           text: |
-            This can be very distressing, but getting a crime number so you can make an insurance claim is the first step in recovery. If the crime has affected your livelihood, a Victim's Personal Statement may influence sentencing. Local support is also available for those struggling to recover - search above.
-    -
+            The Victims' Code outlines the support you should get so you can give evidence in court without intimidation.
+            Your Victim's Personal Statement may affect sentencing or parole. There are also national and local helplines.
+          linkText: Stalking and Harrassment
+          url: /stalking.html
+        -
+          title: I was attacked
+          text: |
+            If you have been physically assaulted, either in a physical attack or with a weapon, then this can cause a lot of shock and distress.
+            Even if you're not ready to report the crime, you are still able to get emotional support to deal with it.
+            Search above to get to the local helpline which can work out which help is best for you.
+          linkText: If you were attacked
+          url: /attacked.html    -
       panels:
+        -
+          title: Hate crime or repeat crime
+          text: |
+            If you are often the victim of the same crime then you can get special support to help you give evidence.
+            The Victims' Code outlines the support you should get so you can give evidence in court without intimidation. Your Victim's Personal Statement may affect sentencing or parole. There are also national and local helplines.
+          linkText: Stalking and Harrassment
+          url: /hate-crime.html
         -
           title: Antisocial behaviour
           text: Antisocial behaviour, such as noise or vandalism, can be very troubling.
           linkText: Support for relatives
           url: /victims-article.html
         -
-          title: I am being stalked or harrassed
-          text: The Victims' Code outlines the support you should get so you can give evidence in court without intimidation. Your Victim's Personal Statement may affect sentencing or parole. There are also national and local helplines.
-          linkText: Stalking and Harrassment
-          url: /victims-article.html
-        -
-          title: My house has been burgled
-          text: |
-            This can be very distressing, but getting a crime number so you can make an insurance claim is the first step in recovery. If the crime has affected your livelihood, a Victim's Personal Statement may influence sentencing. Local support is also available for those struggling to recover - search above.
+          title: Fraud or Cybercrime
+          text: If you have had someone trick you out of something, online or in real life, then you can get support. This also includes getting help for where you have had your identity stolen and used to commit another crime.
+          linkText: Help with fraud
+          url: /fraud.html
