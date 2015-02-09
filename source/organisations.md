@@ -1,7 +1,7 @@
 ---
 title: Who takes part in the Victims Code?	
 ---
-All of the organisations in the justice process have agreed to follow **The Victim's Code**. The code is about you and making sure these organisations help you in the right way. They all know what you're entitled to across the whole justice system, and will make sure that you get to the people who should be helping you right now - no matter who you call.
+All of the organisations in the justice process have agreed to follow **The Victims' Code**. The code is about making sure these organisations help you in the right way. They all know what you're entitled to across the whole justice system, and will make sure that you get to the right people - no matter who you call.
 
 For a case that goes all the way to trial you could be contacted up to thirty times, so it's helpful to know who everyone is. Below is a list of the organisations who support the code, and what they do. The most common ones are at the top, and then there is a full list of all the rest.
 
