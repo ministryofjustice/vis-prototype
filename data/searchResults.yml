@@ -1,15 +1,15 @@
 helplines:
   -
-    name: Homicide service
+    name: National Homicide Service - call if your case involves a murder, otherwise look at support below
     phone: 0808 1689 111
+
+additional_helplines:
   -
     name: Women's Aid/Refuge National Domestic Violence Helpline
     phone: 0808 2000 247
   -
     name: BRAKE - support for families bereaved by road crime
-    phone: 0808 8000 401
-additional_helplines:
-  -
+    phone: 0808 8000 401  -
     name: Stop Learning Disability Hate Crime Helpline
     phone: 0808 802 1155
     url: http://www.stophateuk.org/report-learning-disability-hate-crime/
@@ -18,6 +18,10 @@ additional_helplines:
     phone: 0808 801 0327
     url: http://www.mensadviceline.org.uk/mens_advice.php.html
   -
+    name: Suzy Lamplugh Trust National Stalking Helpline
+    phone: 0207 091 0014
+    url: http://www.suzylamplugh.org/
+-
     name: Respect Perpetrators Helpline
     phone: 0808 802 4040
     url: http://respect.uk.net/
@@ -25,7 +29,3 @@ additional_helplines:
     name: Broken Rainbow National LGBT DV Helpline
     phone: 0300 999 5428
     url: http://www.brokenrainbow.org.uk/
-  -
-    name: Suzy Lamplugh Trust National Stalking Helpline
-    phone: 0207 091 0014
-    url: http://www.suzylamplugh.org/
