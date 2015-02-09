@@ -70,7 +70,8 @@ crimePanels:
             Even if you're not ready to report the crime, you are still able to get emotional support to deal with it.
             Search above to get to the local helpline which can work out which help is best for you.
           linkText: If you were attacked
-          url: /attacked.html    -
+          url: /attacked.html
+    -
       panels:
         -
           title: Hate crime or repeat crime
