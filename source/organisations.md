@@ -36,12 +36,12 @@ In many situations you will have other better ways of getting compensation, such
 ## Other organisations
 These bodies have also signed up to the code. If you speak to them you can ask what your entitlements are, and they will also send you to other relevant organisations if they aren't the best ones to help.
 
-* Criminal Cases Review Commission
-* The First-tier Tribunal (Criminal Injuries Compensation)
-* Her Majesty's Prison Service
-* The Parole Board
-* Police and Crime Commissioners
-* British Transport Police and Ministry of Defence Police
-* Providers of probation services, also known as probation trusts
-* UK Supreme Court
-* Youth Offending Teams
+- Criminal Cases Review Commission
+- The First-tier Tribunal (Criminal Injuries Compensation)
+- Her Majesty's Prison Service
+- The Parole Board
+- Police and Crime Commissioners
+- British Transport Police and Ministry of Defence Police
+- Providers of probation services, also known as probation trusts
+- UK Supreme Court
+- Youth Offending Teams

@@ -12,7 +12,7 @@ Experiencing physical injury or requiring a forensic examination after an assaul
 
 Things you can do after a crime abroad:
 
-* Make notes of what happened and to whom you reported the crime, taking names, police rank and contact numbers. This will support any future insurance claim and also help with any court case at which you might be called to give evidence
-* Contact your bank to put a stop to any lost/stolen credit cards and, if necessary, arrange to receive a cash transfer.
-* Get names and contact details of any medical staff you have contact with.
-* If your passport or identity papers are stolen, contact the local British consulate as soon as possible.
+- Make notes of what happened and to whom you reported the crime, taking names, police rank and contact numbers. This will support any future insurance claim and also help with any court case at which you might be called to give evidence
+- Contact your bank to put a stop to any lost/stolen credit cards and, if necessary, arrange to receive a cash transfer.
+- Get names and contact details of any medical staff you have contact with.
+- If your passport or identity papers are stolen, contact the local British consulate as soon as possible.

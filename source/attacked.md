@@ -2,13 +2,13 @@
 title: I have been attacked
 ---
 
-Assault
+## Assault
 
 Assault is a physical attack or a threat that causes fear of an attack. Victims of assault may be attacked by one or more people. An assault may include one or more types of harm, such as pushing, shoving, slapping, punching, or kicking. It may also include the use of weapons like knives, sticks, bottles, or bats. Common injuries from an assault include bruises, black eyes, cuts, scratches, and broken bones. Victims may even be killed during an assault. Even if the attack results in no physical injury to the victim, it still can be considered an assault.
 
 There are many laws used to classify different kinds of assault. The classification can be based on injury, weapons used, or other circumstances of the crime. Any assault victim, though, injured or not, may experience emotional reactions to the crime.
 
-Gun crime
+## Gun crime
 
 Despite the impression given by the media, crime involving guns is actually quite rare in the UK. However, being involved in a gun crime can cause serious shock and distress, even if a gun isn't actually fired, but only used as a threat, it still remains a very serious crime.
 
@@ -24,7 +24,7 @@ Everyone will be different in how they respond.
 
 The experience can leave some people feeling numb. Some feel intense anger towards the perpetrator. Some people turn their anger inward and blame themselves for getting into a situation where such a crime could happen. ​
 
-Knife crime
+## Knife crime
 
 While the media tend to focus on knife crime around young people and gangs, it can actually involve people of all ages.
 

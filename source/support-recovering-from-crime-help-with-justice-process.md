@@ -2,9 +2,9 @@
 title: Get support to recover from crime and get through the justice process
 ---
 
-From April 2015, there is a change in the way you will be helped to recover from crime. Rather than lots of national helplines, support is organised by your elected local [Police and Crime Commissioner](glossary.html/#pcc) based on the needs of your community.
+From April 2015, there is a change in the way you will be helped to recover from crime. Rather than lots of national helplines, support is organised by your elected local [Police and Crime Commissioner](/glossary.html/#pcc) based on the needs of your community.
 
-If you speak to the police, they should conduct a [Needs Assessment](glossary.html#needs-assessment) to work out what help you will need to recover from the crime. If your case goes to a trial, they will also make sure that the courts know about any [special help](special-measures.html) you might need.
+If you speak to the police, they should conduct a [Needs Assessment](/glossary.html#needs-assessment) to work out what help you will need to recover from the crime. If your case goes to a trial, they will also make sure that the courts know about any [special help](/special-measures.html) you might need.
 
 Your local police have also made arrangements for you to get support if you haven't gone to the police or change your mind later. Many have set up telephone helplines which can work out which charities can help you, and lots have websites that can help too.
 
