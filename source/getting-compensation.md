@@ -2,7 +2,11 @@
 title: Getting compensation
 ---
 
-You may be eligible for compensation if you were the victim of the crime, a close relative of someone who died because of a crime, or someone who witnessed the most serious types of crime.
+You may be eligible for compensation if you are a:
+
+- victim of the crime
+- close relative of someone who died because of a crime
+- witness of a serious crime
 
 The first place to look for compensation is normally insurance policies. These may be your own insurance policies - particularly if you were victim of a property crime such as theft or vandalism. If you know the person who committed the crime you may be able to make a claim against their insurance policies.
 
