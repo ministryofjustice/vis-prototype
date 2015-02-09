@@ -10,13 +10,13 @@ There are many laws used to classify different kinds of assault. The classificat
 
 ## Gun crime
 
-Despite the impression given by the media, crime involving guns is actually quite rare in the UK. However, being involved in a gun crime can cause serious shock and distress, even if a gun isn't actually fired, but only used as a threat, it still remains a very serious crime.
+Crime involving guns is actually quite rare in the UK. However, being involved in a gun crime can cause serious shock and distress, even if a gun isn't actually fired, but only used as a threat, it still remains a very serious crime.
 
 Gun crime can include incidents such as:
 
-* Gang attacks, which affect the wider community and can potentially, harm innocent people in the case of mistaken identity.
-* Violent theft where weapons, including guns, are used to threaten and intimidate. (People carrying an imitation or banned handgun is still counted as a gun crime even if it can't be used.)
-* Witness intimidation.
+- Gang attacks, which affect the wider community and can potentially, harm innocent people in the case of mistaken identity.
+- Violent theft where weapons, including guns, are used to threaten and intimidate. (People carrying an imitation or banned handgun is still counted as a gun crime even if it can't be used.)
+- Witness intimidation.
 
 Experiencing gun crime can be a very shocking experience for anyone. Whether or not anyone is actually hurt, the fact that someone has used a gun to force you to do something can cause a strong reaction – both emotionally and physically.
 
