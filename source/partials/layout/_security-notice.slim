@@ -2,9 +2,7 @@ section.security-banner
   .row
     .medium-12.columns
       = partial 'partials/svg', :locals => { :shape => data.icons.padlock.path }
-      h1 Doing this in secret?
-      p The best way to browse safely online is to use a completely different computer.
-      p #{link_to "Read our guide", "/online-safety.html"}
-      p #{link_to "Get me out!", "http://www.google.co.uk/"}
+      h1 Cover your tracks:
+      p If you’re worried about someone knowing you've visited this website #{link_to "read our guide", "/online-safety.html"} to staying safe online.
+      p #{link_to "Quick exit", "http://www.google.co.uk/"}
       = link_to "Close", "#", { :class => "close-link" }
-
