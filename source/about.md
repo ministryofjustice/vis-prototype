@@ -6,7 +6,7 @@ The Victims' Information Service (VIS) helps you find:
 
 ## Support
 
-The [postcode search](index.html) on the homepage connects you with the support services for victims of crimes in your area.
+The [postcode search](index.html) on the homepage connects you with the support services for victims of crime in your area.
 
 ## Information
 VIS provides easy-to-understand guides about:
