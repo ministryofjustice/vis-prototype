@@ -7,10 +7,10 @@ For a case that goes all the way to trial you could be contacted up to thirty ti
 
 **Remember:** none of these organisations can give you advice on the evidence you give, they can only advise you on the process
 
-## Most Frequent Organisations
+## Organisations you're likely to deal with 
 
-### <a name="police"></a>All police forces in England and Wales
-Police forces will record and investigate the crime, gathering evidence. This normally includes asking you for a statement of what happened, and they may take photos. When they have enough evidence they will ask the Crown Prosecution Service to take the case to court.
+### <a name="police"></a>Police in England and Wales
+The police will record and investigate the crime, gathering evidence. This normally includes asking you for a statement of what happened, and they may take photos. When they have enough evidence they will ask the Crown Prosecution Service to take the case to court.
 
 The police will conduct the first needs assessment to work out what support you need to deal with your crime. They will also be one of the organisations that decide if you'll need any special help in court if you're going to be a witness.
 
