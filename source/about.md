@@ -2,17 +2,18 @@
 title: What is the Victims' Information Service?
 ---
 
-The Victims' Information Service gives help in the following areas:
+The Victims' Information Service (VIS) helps you find:
 
-## Giving Support
+## Support
 
-* Helping you find your way to the new locally-provided support for victims of crimes. You can get this through the postcode search on our [homepage](index.html).
+* The [postcode search](index.html) on the homepage connects you with the local support for victims of crimes.
 
-## Providing Information
-* Helping you understand the [justice process](justice-process.html)
-* Helping you understand the [organisations](organisations.html) involved in the justice process
-* Helping you understand the [entitlements](your-rights.html) you have under The Victims' Code - the things you can expect and ask for
-* Telling you how you can get [compensation](compensation.html) for a crime
-* Telling you [where to complain](complaining.html) if something goes wrong.
+## Information
+VIS provides easy-to-understand guides about:
+* the [justice process](justice-process.html)
+* the [organisations](organisations.html) involved in the justice process
+* [your rights](your-rights.html) as outlined in The Victims' Code
+* [compensation](compensation.html) claims after a crime
+* [where to complain](complaining.html) if something goes wrong
 
 
