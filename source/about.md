@@ -10,6 +10,7 @@ The [postcode search](index.html) on the homepage connects you with the support 
 
 ## Information
 VIS provides easy-to-understand guides about:
+
 * the [justice process](justice-process.html)
 * the [organisations](organisations.html) involved in the justice process
 * [your rights](your-rights.html) as outlined in The Victims' Code
