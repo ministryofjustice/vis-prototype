@@ -64,8 +64,8 @@ crimePanels:
           url: /victims-article.html
         -
           title: Antisocial behaviour
-          text: Antisocial behaviour, such as noise or vandalism, can be very troubling.
-          linkText: Support for relatives
+          text: Antisocial behaviour, such as noise or vandalism, can be very troubling. It can also develop over a very long time.
+          linkText: Get practical help
           url: /victims-article.html
     -
       panels:
@@ -90,12 +90,4 @@ crimePanels:
             The Victims' Code outlines the support you should get so you can give evidence in court without intimidation.
           linkText: Stalking and Harrassment
           url: /hate-crime.html
-    -
-      panels:
-        -
-          title: Fraud or Cybercrime
-          text: |
-          If you have had someone trick you out of something, online or in real life, then you can get support. 
-          This also includes getting help for where you have had your identity stolen and used to commit another crime.
-          linkText: Help with fraud
-          url: /fraud.html
+          
