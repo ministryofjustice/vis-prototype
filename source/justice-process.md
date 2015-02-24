@@ -165,7 +165,7 @@ Even after a verdict, sentencing and an appeal, your case can still change. You 
 
 [text to follow]
 
-## <a name="#victims-code"></a>Justice process and the Victims Code
+## <a name="victims-code"></a>Justice process and the Victims Code
 
 The information here comes from The Victims' Code.
 The Victims' Code tells everyone who works in the justice system how you should be treated. The code starts when you first need support to tell the police about a crime and can end once a person is released from prison. You do not have to remember it, but you can ask about it at any point.
