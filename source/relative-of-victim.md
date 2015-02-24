@@ -8,7 +8,7 @@ title: I am a relative of a victim
 
 
 <a name="helping"></a>
-## 1. Helping a friend or family member
+## Helping a friend or family member
 
 The police cannot investigate a crime unless it has been officially reported and the victim has made a statement. 
 
@@ -17,7 +17,7 @@ However some support is still available to some victims of crime to help them be
 The content on this site may help the victim understand the process better. A postcode search on the homepage will tell you how to get help in your area.
 
 <a name="affected"></a>
-## 2. I've been personally affected by a serious crime
+## I've been personally affected by a serious crime
 If you are the close relative of a victim of the most serious crime then you are still entitled to:
 
 * Emotional support in recovering from the crime - you can get this through the local police.
@@ -30,7 +30,7 @@ If you are the close relative of a victim of the most serious crime then you are
 Search for your local Police and Crime Commissioner's website or helpline on the [homepage](index.html). They will be able to assess your needs and direct you to local services that can help.
 
 <a name="witness"></a>
-## 3. I witnessed the crime
+## I witnessed the crime
 If you saw the serious crime happen but are not a close family member, then the entitlements of the Victims Code may not apply to you. 
 
 Instead the justice process follows the Witness Charter, and it will try to find ways for you to give your evidence to the police and in court safely.
