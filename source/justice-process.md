@@ -9,8 +9,7 @@ title: Justice process - what happens after a crime
 2. [How the justice process follows the Victims' Code for you](#victims-code)
 2. [Links to other websites](#links)
 
-<a name="reporting"></a>
-## Reporting a crime
+## <a name="reporting"></a>Reporting a crime
 
 ### Telling the police
 
@@ -40,9 +39,7 @@ If you don’t want this to happen, you should tell the police officer handling 
 If you’re the victim of a sexual offence or domestic violence, or the relative of someone killed as a result of a crime, the police must check with you first
 
 
-
-<a name="police-investigation"></a>
-## During the police investigation
+## <a name="police-investigation"></a>During the police investigation
 
 After you’ve reported a crime, the police will gather evidence during their investigation. This can take a long time depending on how complicated and serious the crime was.
 
@@ -85,8 +82,7 @@ You won’t have to attend the trial if the defendant pleads guilty.
 
 If the defendant pleads not guilty and you witnessed the crime, you are likely to be called to give evidence. You can ask for extra protection to help you give the best evidence.
 
-<a name="going-to-court"></a>
-## Going to court
+## <a name="going-to-court"></a>Going to court
 
 If your case goes to court the police will pass your details to a Witness Care Officer. They will support you throughout the trial, whether you’re giving evidence or not.
 
@@ -136,8 +132,7 @@ If you’ve given evidence at the trial, you will be able to [claim expenses](ht
 
 Ask your solicitor or a court official for an expenses form.
 
-<a name="after-trial"></a>
-## After the trial
+## <a name="after-trial"></a>After the trial
 
 ### If the offender appeals
 If the offender is allowed to appeal against the sentence or conviction, your Witness Care Officer will tell you when and where the appeal hearing will take place. They will also tell you what the outcome is. 
@@ -170,9 +165,7 @@ Even after a verdict, sentencing and an appeal, your case can still change. You 
 
 [text to follow]
 
-
-<a name="#victims-code"></a>
-## Justice process and the Victims Code
+## <a name="#victims-code"></a>Justice process and the Victims Code
 
 The information here comes from The Victims' Code.
 The Victims' Code tells everyone who works in the justice system how you should be treated. The code starts when you first need support to tell the police about a crime and can end once a person is released from prison. You do not have to remember it, but you can ask about it at any point.
@@ -182,7 +175,7 @@ The Victims' Code tells everyone who works in the justice system how you should 
 [Justice organisations that are part of The Victims' Code](/organisations.html). 
 
 
-## Links
+## <a name="links"></a>Links
 
 ### Compensation and complaints 
 
