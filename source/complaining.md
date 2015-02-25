@@ -8,6 +8,8 @@ Please choose whether your problem is with:
 - [a charity or helpline that your local police or victims' contact centre have sent you to](#local)
 - [the content or function of this digital service](#website)
 
+Elsewhere on the site we tell you [how to appeal if you disagree about compensation amounts](/complaining.html#compensation-appeal).
+
 ## <a name="signatories"></a>Problems with Government Services
 Under the Victims' Code, you're entitled to be treated by [any of its service organisations](/organisations.html) (e.g. the police, courts) in a respectful, sensitive and professional manner without discrimination of any kind.
 

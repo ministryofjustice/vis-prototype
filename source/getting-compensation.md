@@ -37,7 +37,7 @@ As a last resort you can apply to the [Criminal Injuries Compensation Authority 
 
 This process may take a long time. You do not need to have someone represent you.
 
-### 5: Appealing your compensation decision
+### <a name="compensation-appeal"></a> 5: Appealing your compensation decision
 If you disagree with what your insurer has decided you can apply to the [Financial Ombudsman](http://www.financial-ombudsman.org.uk/).
 
 If you disagree with an employer's decision, you can speak to [ACAS](http://www.acas.org) for guidance on how and whether to proceed.
